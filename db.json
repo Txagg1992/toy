@@ -1,0 +1,23 @@
+[
+{
+    "capability": "Account Updates",
+    "subtitle": "OneApp profile, password, vehicle nicknames, and data consents, and other account changes.",
+    "pushAvailable": true,
+    "emailAvailable": true,
+    //"smsAvailable": false
+ },
+  {
+    "capability": "Subscription Updates",
+    "subtitle": "Changes to subscription, vehicle list, and remote command user.",
+    "pushAvailable": true,
+    "emailAvailable": true,
+    //"smsAvailable": false
+  },
+  {
+    "capability": "Billing Alerts",
+    "subtitle": "Payment activity and invoices.",
+    "pushAvailable": false,
+    "emailAvailable": true,
+    //"smsAvailable": false
+  }
+  ]
